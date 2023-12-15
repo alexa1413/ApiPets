@@ -1,0 +1,118 @@
+{ 
+
+    "gatos":[
+        {
+           "id": 1,
+           "imagen": "https://res.cloudinary.com/dvwbihysk/image/upload/v1702676494/pets/Card_11_nf2fpx.png",
+            "nombre": "bonbon",
+            "sexo": "femenino",
+            "raza": "gato americano",
+            "edad": "1 año",
+            "direccion": "4140 parker Rd.Alletown, new mexico 3134 ",
+            "personalidad": "jugueton,dormilona,amigable",
+            "historia": "bombon es una gran mascota para las personas tiernas y dulces que quieran una mascota amigable y lealo que los acompañe fiel mente,con todo el amor la recibimos ya que su dieña no podia seguirla cuidando y buscamos una persona con mucha responsabilidad para seguir dandole ese amor"
+
+        },
+        {
+            "id": 1,
+            "imagen": "https://res.cloudinary.com/dvwbihysk/image/upload/v1702676494/pets/Card_10_uxq4yf.png",
+             "nombre": "katy",
+             "sexo": "femenino",
+             "raza": "bonbany",
+             "edad": "siete meses",
+             "direccion": "4140 parker Rd.Alletown, new mexico 3134 ",
+             "personalidad": "juguetona,tierna,inquieta",
+             "historia": "katy es una muy buena compañera para los niños le encanta darle alegria a los mas pequeños, a ella la rescatamos de un hogar mas sin embargo es dulce y fiel y le buscamos una familia que este llena de amor y comprension para esta hermosa gatita"
+ 
+         },
+         {
+            "id": 1,
+            "imagen": "https://res.cloudinary.com/dvwbihysk/image/upload/v1702676494/pets/Card_8_j1ukkk.png",
+             "nombre": "matilde",
+             "sexo": "femenino",
+             "raza": "british shorthair",
+             "edad": "seis meses",
+             "direccion": "4140 parker Rd.Alletown, new mexico 3134 ",
+             "personalidad": "jugueton,inquieton,tierno",
+             "historia": "matilde es la mejor guarda espaldas,siempre esta ahi para conversar y recibira cada dia con un gran cariño. fue rescatada y busco una persona que le puede dar todo el amor que ella necesita"
+ 
+         },
+         {
+            "id": 1,
+            "imagen": "https://res.cloudinary.com/dvwbihysk/image/upload/v1702676494/pets/Card_9_wg9adi.png",
+             "nombre": "pelusa",
+             "sexo": "macho",
+             "raza": "birmano",
+             "edad": "11 meses",
+             "direccion": "4140 parker Rd.Alletown, new mexico 3134 ",
+             "personalidad": "dormilona,tierna,amigable",
+             "historia": "palusa es una gran compañera tranquila da mucho amor y es muy atenta a la hora de estar con las personas, fue rescatada hace un mes y ahora esta lista para seguir tranquila en un hogar para dar mucha alegria y felicidad."
+ 
+         }
+    ],
+
+    "perros":[
+        {
+            "id": 1,
+            "imagen": "https://res.cloudinary.com/dvwbihysk/image/upload/v1702676499/pets/Card_3_w7mzef.png",
+             "nombre": "papi",
+             "sexo": "macho",
+             "raza": "chihuahua",
+             "edad": "un mes y 10 dias",
+             "direccion": "4140 parker Rd.Alletown, new mexico 3134 ",
+             "personalidad": "cariñoso,iquieto,jugueton",
+             "historia": "papi es uno de nuestros amigos mas jovenes que nacio en nuestro refugio con otros dos hermanitos, les estamos buscando un hogar para que pueda crecer feliz con mucho amor y juegos para brindar"
+ 
+
+        },
+        {
+            "id": 1,
+            "imagen": "https://res.cloudinary.com/dvwbihysk/image/upload/v1702676500/pets/Card_2_saviju.png",
+             "nombre": "chester",
+             "sexo": "masculino",
+             "raza": "golden retriever",
+             "edad": "5 meses",
+             "direccion": "4140 parker Rd.Alletown, new mexico 3134 ",
+             "personalidad": "juegueton,alegre,dormilon",
+             "historia": "chester es una gran compañia da mucho amor y muchisima felicidad para dultos,jovenes y niños es la mascota perfecta para alegrar una familia, lo enocntramos solo cuando apenas tenia dos meses.pero esta listo para dar amor y mucha felicidad."
+ 
+         },
+         {
+            "id": 1,
+            "imagen": "https://res.cloudinary.com/dvwbihysk/image/upload/v1702676499/pets/Card_4_qn0nle.png",
+             "nombre": "rocky",
+             "sexo": "masculino",
+             "raza": "rottweiler",
+             "edad": "3 meses",
+             "direccion": "4140 parker Rd.Alletown, new mexico 3134 ",
+             "personalidad": "cariñoso,iquieto,jugueton",
+             "historia": "roky es un perrito muy lindo y cariñoso. tiene 5 hermanitos mas y por cuestion de espacio y tiempo no podremos cuidar a todos, es nuestra mision es encontrar la familia idealo para el y seguro tu eres la persona indicada "
+ 
+         },
+         {
+            "id": 1,
+            "imagen": "https://res.cloudinary.com/dvwbihysk/image/upload/v1702676498/pets/Card_5_x4it3v.png",
+             "nombre": "pelusa",
+             "sexo": "femenino",
+             "raza": "bichon frise",
+             "edad": "2 meses",
+             "direccion": "4140 parker Rd.Alletown, new mexico 3134 ",
+             "personalidad": "tranquila, amorosa,alegre",
+             "historia": "rescatamos a la madre de pelusa, lastimosamente tiene otros dos hermanitos y la madre murio por eso le estamos buscando el mejor hogar para que pueda crecer feliz llena de amor y no le falte nada por que es nuestra responsabilidad ver que podemos contar con las personas para esto."
+ 
+         },
+         {
+            "id": 1,
+           "imagen": "https://res.cloudinary.com/dvwbihysk/image/upload/v1702676495/pets/Card_6_etnpcm.png",
+            "nombre": "charlie",
+            "sexo": "masculino",
+            "raza": "chiguagua",
+            "edad": "un mes y 10 dias",
+            "direccion": "4140 parker Rd.Alletown, new mexico 3134 ",
+            "personalidad": "curioso,amoroso,tranquilo",
+            "historia": "charlie es el hermano de papi, nuestro otro chiguagua. que nacio en el refugio con us otros dos hermanos que buscan tambien un hogar, en comparacion a papi, charlie es mucho mas tranquilo pero es supoer cuiroso para grandes aventuras no te dejes engañar por su estatura."
+         }
+    ]
+    
+
+}
