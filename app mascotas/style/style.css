@@ -1,0 +1,11 @@
+.divimg{
+    position: relative;
+    top: 200px;
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+}
+body{
+    background-color: #FEC7D7;
+    
+}
